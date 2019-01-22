@@ -1,2 +1,3 @@
 # Stellaris
 A game where nothing makes sense but anything goes and its a vast universe that could hold anything from a god race to a race made of piles of shit
+This is my commit towards the wonderful nightmare of a game we call stellaris in the beginning you will feel a sense of loss for you have to create your species from scratch and they have to survive long enough until they are able to defend themselves from opposing forces but the real trick is that when you feel ready to battle and your ships leave your home world you start to notice the drastic decrease in energy per cycle the your civilation has to go through in order to fly ships that aren't even on your home world anymore which makes no sense. 
